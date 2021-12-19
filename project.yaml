@@ -16,3 +16,4 @@ dataSources:
           filter:
             module: balances
             method: Transfer
+
